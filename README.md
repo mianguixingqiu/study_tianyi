@@ -1,3 +1,7 @@
+#studywithTianyi
+想照猫画虎做个天依的版本，改了图标、视频、文字，但是用github的action功能却只有一个蓝色的界面，但是本地就运行的好好的，好烦。
+
+
 # StudyWithMiku
 
 STUDY WITH MIKU web version cover
